@@ -1,6 +1,6 @@
 # Neural Networks on Silicon
-
-Hi I am supreeth Mysore a PhD student in the field of electrical and computer engineering at University of Kentucky. Here are the lists of papers related to the nerual networks on silicon and hardware accelerators. Hope this will be helpful in the research and organization. I will update the lists as and when I get time. Thank you.
+Hello, 
+ I am supreeth Mysore a PhD graduate student in the field of electrical and computer engineering at University of Kentucky. Here are the lists of papers related to the nerual networks on silicon and hardware accelerators. Hope this will be helpful in the research and organization. I will update the lists as and when I get time. Thank you.
 
 ## Table of Contents
  
